@@ -1,0 +1,15 @@
+{
+    Filter =     {
+        Bundles =         (
+            "com.picsart.studio",
+            "com.camerasideas.InstaShot",
+            "com.lightricks.Enlight-Photos",
+            "com.lightricks.Enlight-Editor",
+            "com.lightricks.Enlight-Video",
+            "com.mobivio.cutecut",
+            "com.tang.ivideofree",
+            "com.frontierdesign.videostar",
+            "com.google.ios.youtube"
+        );
+    };
+}

@@ -1,0 +1,13 @@
+Package: com.snope.DezinePro
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Snope <Adelyahoo0404@gmail.com>
+Filename: DezinePro.deb
+Size: 306780
+MD5sum: A43D5BF25F5B660974503ED23EF9112F
+SHA1: 262E83D738CCBB861367BC3C95F3F17AEC1FBA04
+SHA256: 982D43ADB288551492067408265C571B5823892DA89F122ADF761F80CDE61048
+Section: Tweaks
+Description: Hack dezine app
+Author: Snope <adelyahoo0404@gmail.com>
+Name: DezinePro
